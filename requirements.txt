@@ -5,4 +5,6 @@ langchain-community
 pyPDF2
 faiss-cpu
 streamlit
+google-generativeai
+langchain-google-genai
 -e .
